@@ -1,1 +1,1 @@
-Wedding-Invitation -- https://github.com/ankitkuman/Wedding-Invitation.git
+Wedding-Invitation -- https://ankitkuman.github.io/Wedding-Invitation/
